@@ -16,7 +16,7 @@ function preload(){
 }
 
 function setup(){
-    const canvas = createCanvas(500,370);
+    const canvas = createCanvas(500,375);
     canvas.parent('canvas-container');
 
     const answerContainer1 = {x:20, y:150, w:220, h:200, r:5};
